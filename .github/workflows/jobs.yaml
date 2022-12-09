@@ -2,7 +2,7 @@ name: Reusable workflow jobs
 
 on:
   workflow_call:
-    # Map the workflow outputs to job outputs
+    # Map the workflow outputs to job outputs l
     outputs:
       firstword:
         description: "The first output string"
